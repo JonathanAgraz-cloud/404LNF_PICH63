@@ -221,10 +221,12 @@ body{
 }
 
 /* TEAM */
+
+/*Esto es para el borde de la imagen */
 .team-card{
-  border-radius: 18px;
+  border-radius: 38px;
   background: #fff;
-  border: 2px solid rgba(10,160,110,.10);
+  border: 8px solid rgba(10,160,110,.10);
   box-shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
 }
 
@@ -233,7 +235,7 @@ body{
   height: 56px;
   border-radius: 16px;
   overflow: hidden;
-  border: 2px solid rgba(233,30,99,.18);
+  border: 3px solid rgba(233,30,99,.18);
   flex: 0 0 auto;
   background: rgba(233,30,99,.08);
 }
